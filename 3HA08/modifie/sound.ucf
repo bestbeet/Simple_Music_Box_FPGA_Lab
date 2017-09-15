@@ -1,0 +1,14 @@
+
+
+NET "clk" LOC = P127;
+NET "note[0]" LOC = P25;
+NET "note[1]" LOC = P24;
+NET "note[2]" LOC = P23;
+NET "note[3]" LOC = P21;
+NET "note[4]" LOC = P20;
+NET "note[5]" LOC = P18;
+NET "note[6]" LOC = P17;
+NET "onoff" LOC = P15;
+
+
+NET "o" LOC = P112;
